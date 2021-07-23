@@ -5,7 +5,7 @@ Created on Fri Jul  2 00:20:57 2021
 @author: parth
 """
 
-
+######Curently, tested to create ML modelin loop, working on how to find the adequate hyper-parameter in fast manner.
 import numpy as np
 from PIL import Image
 import pandas as pd
